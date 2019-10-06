@@ -1,4 +1,4 @@
-# Webpack starter kit
+<!-- # Webpack starter kit
 
 [Живая страница](https://luxplanjay.github.io/webpack-starter-kit/) после деплоя
 через `npm run deploy`.
@@ -37,4 +37,4 @@ Pages в репозиторий из свойства `homepage` в `package.jso
 ## Баги и улучшения
 
 Если нашли баг открывайте `issue`, обсудим, если пофиксили открывайте
-`pull request`.
+`pull request`. -->
